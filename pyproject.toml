@@ -33,6 +33,7 @@ classifiers = [
 dynamic = [ "version" ]
 
 dependencies = [
+  "a2a>=0.44",
   "aiosqlite>=0.21",
   "authlib>=1.6.6,<2",
   "click>=8.1.8,<9",
